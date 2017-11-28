@@ -1,0 +1,82 @@
+* {
+	margin: 0;
+	background-color: #000;
+}
+
+#banner {
+	font-family: 'Abel', sans-serif;
+	color: #fff;
+	text-align: right;
+}
+
+h1 {
+	margin-right: 3em;
+	font-size: 40px;
+}
+
+h4 {
+	margin-right: 6em;
+	font-size: 20px;
+}
+
+.doggoimg1 {
+	width: 100%;
+}
+
+#textbox {
+	background-color: #F781F3;
+	padding: 10em;
+}
+
+#containertext {
+	color: #fff;
+	font-family: 'Josefin Sans', sans-serif;
+}
+
+	h2, p {
+		text-align: justify;
+		margin-right: 8em;
+		margin-left: 8em;
+	}
+
+#text {
+	margin-right: auto;
+	margin-left: auto;
+	color: #fff;
+	font-family: 'Josefin Sans', sans-serif;
+}
+
+.doggoimg2 {
+	width: 100%;
+}
+
+.text2 {
+	font-family: 'Abel', sans-serif;
+	font-size: 40px;
+	text-align: center;
+	color: #fff;
+}
+
+#picturebox {
+	padding: 8em;
+}
+
+.album1,
+.album2,
+.album3,
+.album4 {
+	margin-left: 3em;
+	max-width: 60%;
+	height: auto;
+	border: 6px solid #F781F3;
+}
+
+.doggoimg3 {
+	width: 100%;
+}
+
+h3 {
+	font-family: 'Josefin Sans', sans-serif;
+	color: #F781F3;
+	text-align: right;
+}
